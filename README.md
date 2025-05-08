@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Dariel Bandomo 👋
 - 🌱 I’m currently learning and giving my first steps in github...
 
 <!--
