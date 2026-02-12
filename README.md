@@ -9,9 +9,7 @@ I am an expert in C#, Java, JavaScript and frameworks like .NET FRAMEWORK, also 
 
 # Some solutions offered to small business
 
-## SPA Caricia del Cielo website
-
-(https://bandomodariel.pythonanywhere.com)
+## [SPA Caricia del Cielo website](https://bandomodariel.pythonanywhere.com)
 
 ![Spa Caricia del Cielo-2](https://github.com/user-attachments/assets/e4d26954-5e60-4b32-9e31-858cc60c5371)
 
