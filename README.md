@@ -1,7 +1,7 @@
-## Hello, my name is Dariel Perez Bandomo 👋
+## Hello, my name is Dariel Pérez Bandomo 👋
 ### Software & Web Developer
 
-![https://github.com/bandomo]()
+![https://github.com/bandomo](.)
 
 Software and web developer with seven years of experience on web development and applications desktop development. 
 
@@ -11,7 +11,7 @@ I am an expert in C#, Java, JavaScript and frameworks like .NET FRAMEWORK, also 
 
 ## SPA Caricia del Cielo website
 
-![https://bandomodariel.pythonanywhere.com]()
+(https://bandomodariel.pythonanywhere.com)
 
 ![Spa Caricia del Cielo-2](https://github.com/user-attachments/assets/e4d26954-5e60-4b32-9e31-858cc60c5371)
 
