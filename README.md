@@ -10,8 +10,10 @@ I am an expert in C#, Java, JavaScript and frameworks like .NET FRAMEWORK, also 
 # Some solutions offered to small business
 
 ## [SPA Caricia del Cielo website](https://bandomodariel.pythonanywhere.com)
+![Spa Caricia del Cielo-2](https://github.com/user-attachments/assets/c90ecb94-0cd0-49a2-84f8-d727d0488ae7)
 
-![Spa Caricia del Cielo-2](https://github.com/user-attachments/assets/e4d26954-5e60-4b32-9e31-858cc60c5371)
+
+
 
 Actually, I am developing software solutions to other clients and friends, who are needing give promotion to its business, without cost like a contribution to them. As soon as posible I will showing some of those products in this place.
 
