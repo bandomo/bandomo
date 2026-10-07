@@ -9,8 +9,9 @@ I am an expert in C#, Java, JavaScript and frameworks like .NET FRAMEWORK, also 
 
 # Some solutions offered to small business
 
-## [SPA Caricia del Cielo website](https://bandomodariel.pythonanywhere.com)
-![Spa Caricia del Cielo-2](https://github.com/user-attachments/assets/c90ecb94-0cd0-49a2-84f8-d727d0488ae7)
+## [Massages Services and Beauty Treatmes Caricia del Cielo website](https://cariciadelcielo.kesug.com)
+<img width="1248" height="766" alt="sitio cariciadelcielo1" src="https://github.com/user-attachments/assets/a8ccaf3c-3e4f-47ae-afbe-f847799d0202" />
+
 
 
 
